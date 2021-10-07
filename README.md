@@ -10,7 +10,7 @@ npm install asset-extensions
 
 ## Usage
 
-```
+```js
 const assetExtensions = require('asset-extensions');
 const fontExtensions = require('asset-extensions/lib/font');
 const imageExtensions = require('asset-extensions/lib/image');
